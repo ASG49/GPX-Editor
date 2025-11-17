@@ -1,0 +1,15 @@
+{
+  "name": "GPX Editor",
+  "short_name": "GPX Editor",
+  "start_url": "GPX_Editor_v4.1.html",
+  "display": "standalone",
+  "background_color": "#2c3e50",
+  "theme_color": "#2c3e50",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}
